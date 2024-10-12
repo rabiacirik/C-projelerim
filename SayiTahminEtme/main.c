@@ -1,8 +1,8 @@
 //
 //  main.c
-//  ödevv3
+//  SayiTahminEtme
 //
-//  Created by Rabia Cırık on 17.11.2023.
+//  Created by Rabia Cırık on 13.10.2024.
 //
 
 #include <stdio.h>
@@ -48,3 +48,5 @@ int main(int argc, const char * argv[]) {
 
     return 0;
 }
+
+  
