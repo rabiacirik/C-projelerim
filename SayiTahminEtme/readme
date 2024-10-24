@@ -1,0 +1,7 @@
+Bu program, kullanıcıdan 1 ile 100 arasında rastgele seçilen bir sayıyı tahmin etmesini isteyen bir sayı tahmin oyunudur. Program her çalıştığında rastgele bir sayı üretir ve kullanıcının bu sayıyı tahmin etmesini bekler. Kullanıcı her tahmin yaptığında, program daha büyük veya daha küçük bir sayı girmesini isteyerek rehberlik eder. Kullanıcı doğru tahmini yaptığında, program tebrik eder ve kaç tahminde bulunduğunu ekrana yazar. Ayrıca, 1 ile 100 arasında olmayan tahminlerde uyarı verir.
+
+
+
+
+
+
